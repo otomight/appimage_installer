@@ -25,7 +25,8 @@ git clone https://github.com/SwaonD/appimage_installer.git
 ./appimage_installer/main.sh <my_file>.AppImage
 ```
 
-# Installation
+# Script Installation
+To be able to use the script with the command `appimage-install`.
 1. **Run the installer**
 ```sh
 ./appimage_installer/install.sh
